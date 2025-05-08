@@ -1,11 +1,12 @@
-
+# Final Prototype Sketch
 ![Final Prototype Sketch](https://github.com/user-attachments/assets/3b484c7b-578d-44ec-932c-de1e54df311d)
 
-
+# Final Prototype CAD (orthogonal-view)
 ![Final Prototype CAD (orthogonal-view)](https://github.com/user-attachments/assets/152ef414-e898-4193-99df-e5bf9bf387de)
 
-
+# Final Prototype CAD (side-view)
 ![Final Prototype CAD (side-view)](https://github.com/user-attachments/assets/229958c4-ffd7-4a03-8324-9619dbc20d99)
 
 
+## Deskerciser Concept
 The original idea for the prototype was an office-chair that could double into a bench press. The "Final Prototype" figure shows that the seat will be supported by a set of legs (in the physical prototype we used 3 legs to support the seat). The backrest will be attached to the seat in a way that allows an angle of rotation of 90-degrees (from being parallel to the seat to being orthogonal to the seat). The seat has a strut-channel with a strut and rigid-link assembly that runs from the seat to the backrest. The strut slides in the strut-channel and can be fixed at set points along the strut-channel, the linkage is rigidly attached to the backrest, so that moving the strut within the channel changes the angle of the backrest. The strut and rigid-link were included in the prototype to provide an extra reaction force against the force applied by the user to the backrest, it also enhances the functionality of the product by allowing the backrest to be set at fixed increments. On to back-side of the backrest, there was a support rod and a snap-fit holder for the support rod. The support rod was included to provide more support on the backrest, where there will be a large downward force due to the user's weights, as well as a moment about the origin due to the distance from the original and the normal force of the user. The snap-fit holder was used to keep the support rod close to the backrest while the bench press wasn't in use (ie the user is using the chair as an office chair), this was intended to cut down on the space the chair took up, which would be a necessity in a small living space such as an apartment or town-house. In our renders, we used another leg near the connecting hinge between the backrest and the seat, this was used much for the same reason as the support rod. The average human's center of mass falls roughly 10cm below their naval. This would coincide with the placement of the supporting leg, which provides much more support for the user when they're bench pressing. The leg didn't have the same functionality of the support rod, it could telescope a few cm, however, it still increases the volume of the bounding box for the chair, which wasn't conducive to small living spaces; in future iterations of the project, the leg would also include a snap-fit holder. 
