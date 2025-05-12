@@ -14,7 +14,8 @@
 
 ![Downright-Right](https://github.com/user-attachments/assets/39f19018-6fcf-4813-93d1-e2403032f95b)
 
-![Downright-Left](https://github.com/user-attachments/assets/1f36e7e3-2cab-40bd-9403-6553c5136802)
+![Downright-Left](https://github.com/user-attachments/assets/ad18c02c-ead4-48f0-acc7-9ef02143aa45)
+
 
 
 
